@@ -17,7 +17,8 @@ Creating Personas Based on previous user data or a given user scenario. Create a
 
 ## Output:
 
-[uiux 5.pdf](https://github.com/user-attachments/files/23328991/uiux.5.pdf)
+[UIux 5.pdf](https://github.com/user-attachments/files/23519992/UIux.5.pdf)
+
 
 
 ## Result:
